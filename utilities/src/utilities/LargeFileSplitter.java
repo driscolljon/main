@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
-public class FileContentReadTest {
+public class LargeFileSplitter {
 
 	public static void main(String[] args) {
 		File fileIn;
